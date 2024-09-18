@@ -6,7 +6,6 @@ import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { Slider } from "@/components/ui/slider";
 import { Ghost, Zap, Skull, Coffee } from "lucide-react";
-import Head from "next/head";
 
 const scrambleText = (text: string) => {
   return text
